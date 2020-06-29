@@ -4,7 +4,7 @@
  * @create date 2020-06-28 11:13:56
  * @modify date 2020-06-28 11:13:56
  * @desc This class can be used to transfer 'normalizedValue` from a Slider component (source) to other Sliders (destination).
- * @github https://github.com/krsmga
+ * @github https://github.com/krsmga/SliderToNormalized
  */
 using UnityEngine;
 using UnityEngine.UI;
